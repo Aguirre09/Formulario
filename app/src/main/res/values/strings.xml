@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+
+    <string name="nombre">Ingrese su nombre completo</string>
+    <string name="correo">Ingrese su correo electrónico</string>
+
+    <string name="numero">Ingrese numero de contacto</string>
+    <string name="password">Ingrese Contraseña</string>
+
+    <string name="pass_comp">Ingrese nuevamente su contraseña</string>
+    <string name="Mascu">Masculino</string>
+
+    <string name="Fem">Femenino</string>
+
+    <string name="Trotar">Trotar</string>
+
+    <string name="Nadar">Nadar</string>
+
+    <string name="Cine">Cine</string>
+
+    <string name="Leer">Leer</string>
+
+    <string name="Fecha">Fecha de nacimiento</string>
+
+    <string name="CIUDADES">Ingrese la ciudad</string>
+    <string name="msg_error_campos_vacios">Debe digitar todos los campos o contraseña no coincide </string>
+    <string name="msg_error">Contraseña no corresponde</string>
+    <string name="sexo">Sexo:</string>
+    <string name="hobbie">Hobbie:</string>
+    <string name="Fecha_Nacimiento">Fecha de Nacimiento:</string>
+
+    <string-array name="City_list">
+        <item> Selección de Ciudad</item>
+        <item> Bogotá</item>
+        <item> Medellin </item>
+        <item> Armenia </item>
+        <item> Pereira </item>
+        <item> Pasto </item>
+        <item> Barranquilla </item>
+        <item> Quibdo </item>
+        <item>  Tumaco </item>
+        <item>  Cali </item>
+        <item> Bucaramanga </item>
+        <item> Santa Marta </item>
+    </string-array>
+
+
+</resources>
