@@ -21,6 +21,8 @@
     <string name="Leer">Leer</string>
 
     <string name="Fecha">Fecha de nacimiento</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Informacion_total">Información de Usuario</string>
 
     <string name="CIUDADES">Ingrese la ciudad</string>
     <string name="msg_error_campos_vacios">Debe digitar todos los campos o contraseña no coincide </string>
